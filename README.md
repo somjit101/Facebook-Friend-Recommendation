@@ -1,0 +1,2 @@
+# Facebook-Friend-Recommendation
+This is a friend recommendation systems which are used on social media platforms to suggest friends/new connections based on common interests, workplace, common friends etc. using Graph Mining techniques. Here, given a social graph, i.e. a graph structure where nodes are individuals on social media platforms (e.g. Facebook, Instagram, Twitter) and the directed edges (or 'links') indicate that one person 'follows' the other, or are 'friends' on social 
