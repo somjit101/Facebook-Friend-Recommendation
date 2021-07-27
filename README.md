@@ -3,7 +3,7 @@ This is a friend recommendation systems which are used on social media platforms
 
 
 ## Problem Statement
-**Given a directed social graph, have to predict missing links to recommend users. ** (Link Prediction in Graph)
+**Given a directed social graph, have to predict missing links to recommend users.** (Link Prediction in Graph)
 
 ### Data Overview
 [Dataset Link](https://www.kaggle.com/c/FacebookRecruiting/data)
