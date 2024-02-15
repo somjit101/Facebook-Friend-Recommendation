@@ -37,7 +37,7 @@ Decision Tree based approached proved to be quite effective for this problem sta
 
 Here are the details and performance metrics of the classifiers used : 
 
-| **Model** | **No. of Base Learners** | **Max Depth of Base Learners** | **Training F1-score** | **Training F1-score** |
+| **Model** | **No. of Base Learners** | **Max Depth of Base Learners** | **Training F1-score** | **Testing F1-score** |
 | --------- | ------------------------ | ------------------------------ | --------------------- | --------------------- |
 | Random Forest | 121                  | 14                             | 0.964                 | 0.921                |
 |    XGBoost    | 109                  | 10                             | 0.992                 | 0.926                 |
